@@ -1,2 +1,5 @@
 # hello-world
-It is what it is.
+
+Hi humans, I am new here!
+
+Greg here, I love web development.
